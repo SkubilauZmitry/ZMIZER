@@ -156,3 +156,22 @@ body {
   top: 0;
   left: 0;
 }
+
+.dima__dima_1-- {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: #a84747;
+}
+.dima__dima_2-- {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: #2f1a98;
+}
+.dima__dima_3-- {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: #c7cc2c;
+}

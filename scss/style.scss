@@ -48,3 +48,27 @@ body {
 
 .content {
 }
+.dima {
+    &__dima {
+        &_1-- {
+            display: block;
+            width: 100px;
+            height: 100px;
+            background: #a84747;
+        }
+
+        &_2-- {
+            display: block;
+            width: 100px;
+            height: 100px;
+            background: #2f1a98;
+        }
+
+        &_3-- {
+            display: block;
+            width: 100px;
+            height: 100px;
+            background: #c7cc2c;
+        }
+    }
+}
