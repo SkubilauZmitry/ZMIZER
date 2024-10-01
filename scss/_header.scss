@@ -1,0 +1,38 @@
+.header {
+    position: absolute;
+    width: 100%;
+    z-index: 50;
+
+    &__row {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__menu {
+    }
+
+    &__logo {
+    }
+}
+.menu {
+    &__img {
+    }
+
+    &__body {
+    }
+
+    &__list {
+        display: flex;
+    }
+
+    &__link {
+        font-size: 13px;
+        font-family: "Myriad Pro";
+        color: rgb(77, 73, 89);
+        text-transform: uppercase;
+        line-height: 1.2;
+    }
+    .img-menu {
+    }
+}
